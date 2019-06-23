@@ -223,6 +223,9 @@ body {
 	#logo {
 	width: 100%;
 	}
+	.btn{
+		width: 100%;
+	}
   }
   
   @media screen and (max-width: 768px) {
@@ -238,6 +241,9 @@ body {
 	 #logo {
 	width: 100%;
   }
+  .btn{
+	width: 70%;
+}
 }
   
   
@@ -256,4 +262,7 @@ body {
 	  #logo {
 	  width: 100%;
   } 
+  .btn{
+	width: 50%;
+}
   }
